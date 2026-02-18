@@ -70,7 +70,9 @@ export default function Home() {
         key={unit}
         className="
           flex flex-col items-center
-          bg-black/60 backdrop-blur-xl
+          bg-black/60 backdrop-blur-xlgit branch -M main
+git push -u origin main
+
           px-4 py-3 md:px-6 md:py-4
           rounded-xl
           border border-red-500/40

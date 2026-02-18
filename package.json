@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "face-api.js": "^0.22.2",
-    "framer-motion": "^12.34.0",
+    "framer-motion": "^12.34.2",
     "lucide-react": "^0.574.0",
     "ogl": "^1.0.11",
     "postprocessing": "^6.38.2",
